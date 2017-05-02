@@ -1,0 +1,16 @@
+[{
+	"name": "UX researcher",
+	"salary": 6500,
+	"editing": false,
+	"salaryEdit": false
+}, {
+	"name": "UI developer",
+	"salary": 2500,
+	"editing": false,
+	"salaryEdit": false
+}, {
+	"name": "Graphic designer",
+	"salary": 3000,
+	"editing": false,
+	"salaryEdit": false
+}]
